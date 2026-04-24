@@ -1,8 +1,7 @@
 # 👋 Hola, soy William Martinez
 
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=william-martinez5101&label=Visitas&color=0e75b6&style=flat" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&size=28&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Java+Backend+Developer;Apasionado+por+la+tecnología;Siempre+aprendiendo+nuevas+cosas" />
 </p>
 
 
@@ -126,5 +125,9 @@ Seguir creciendo como desarrollador y participar en proyectos donde pueda aporta
 * Intagram: https://www.instagram.com/william._.tr1/
 
 ---
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=william-martinez5101&label=Visitas&color=0e75b6&style=flat" />
+</p>
+
 
 ⭐ *Apasionado por la tecnología, el aprendizaje continuo y la creación de soluciones reales.*
