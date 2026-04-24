@@ -41,6 +41,19 @@ Siempre estoy en constante aprendizaje, mejorando mis habilidades técnicas y ex
 * JasperReports → Generación de reportes dinámicos
 
 ---
+## 📌 Proyectos destacados  
+
+### 🌱 Plants vs Zombies Cards  
+🔗 https://github.com/VladAlz/Plants_vs_Zombies_Cards  
+Proyecto enfocado en la lógica de juego y estructuras de datos, inspirado en Plants vs Zombies.  
+
+---
+
+### 📋 Formulario Ágiles  
+🔗 https://github.com/VladAlz/Formulario_Agiles  
+Aplicación orientada a la gestión de formularios aplicando buenas prácticas de desarrollo.  
+
+---
 
 ## 🛠️ Habilidades técnicas
 
@@ -89,6 +102,11 @@ Siempre estoy en constante aprendizaje, mejorando mis habilidades técnicas y ex
 * Profundizando en backend y bases de datos
 
 ---
+## 📊 Estadísticas  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=william-martinez5101&show_icons=true&theme=default&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=william-martinez5101&layout=compact&hide_border=true)
 
 ## 🎯 Objetivo
 
@@ -99,6 +117,7 @@ Seguir creciendo como desarrollador y participar en proyectos donde pueda aporta
 ## 📫 Contacto
 
 * GitHub: https://github.com/william-martinez5101
+* Intagram: https://www.instagram.com/william._.tr1/
 
 ---
 
