@@ -1,5 +1,11 @@
 # 👋 Hola, soy William Martinez
 
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=william-martinez5101&label=Visitas&color=0e75b6&style=flat" />
+</p>
+
+
 💻 **Desarrollador Full Stack** enfocado en construir soluciones eficientes, escalables y bien estructuradas.
 
 ---
